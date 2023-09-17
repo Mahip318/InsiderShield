@@ -5,7 +5,7 @@ InsiderShield is a robust and sophisticated tool designed to detect, monitor, an
 
 
 
-#Custom Dashboard of Logs
+# Custom Dashboard of Logs
 
 ![Dashboard-3](https://github.com/Mahip318/InsiderShield/assets/63244852/f5c545c8-9799-4faf-a5ce-63c8bdc1fb77)
 ![Dashboard-2](https://github.com/Mahip318/InsiderShield/assets/63244852/25adce50-47c4-466e-b85b-01c0782814a4)
