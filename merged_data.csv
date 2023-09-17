@@ -1,0 +1,2 @@
+AccessKeyId,Username,EventTime,EventSource,Warning,EventName,get_Count,put_Count,create_Count,set_Count,add_Count,update_Count,modify_Count,change_Count,attach_Count,allocate_Count,assign_Count,associate_Count,User_Rating
+ASIARXDSJKYSV3AWZ74Y,cloudtraillogs,9/11/2023 21:12,logs.amazonaws.com,Outside Working Hours,CreateLogStream,0,0,1,0,0,0,0,0,0,0,0,0,2

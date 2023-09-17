@@ -1,0 +1,13 @@
+AccessKeyId,EventName,get_Count,put_Count,create_Count,set_Count,add_Count,update_Count,modify_Count,change_Count,attach_Count,allocate_Count,assign_Count,associate_Count,User_Rating
+ASIARXDSJKYS2OBQTDHN,"DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates, DescribeEventAggregates",0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYS2RCM6DP4,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYS2YBIVRM7,"ListAttachedRolePolicies, ListRolePolicies, ListRoleTags, ListPolicyGenerations, ListInstanceProfilesForRole, PutRolePolicy, GetRole, ListAccountAliases, ValidatePolicy, ValidatePolicy, ValidatePolicy, ValidatePolicy, GetPolicy, GetPolicy, GetPolicy, ListPolicies, GetPolicy, GetPolicy, GetPolicy, GetPolicy, GetPolicy, GetPolicy",10,1,0,0,0,0,0,0,1,0,0,0,24
+ASIARXDSJKYS3DKFJ6GL,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYS6HQTJ5EX,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYS7ECXSGNN,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYS7I4VDJRV,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYSSHWRDC5Y,DescribeEventAggregates,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYSV3AWZ74Y,CreateLogStream,0,0,1,0,0,0,0,0,0,0,0,0,2
+ASIARXDSJKYSVB4RYQSB,"DescribeEventAggregates, DescribeEventAggregates",0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYSX7WM5BFJ,"DescribeEventAggregates, DescribeEventAggregates",0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYSZSATYQI7,"GetFunction20150331v2, GetRuntimeManagementConfig, GetFunction20150331v2, GetRuntimeManagementConfig, UpdateFunctionCode20150331v2, GetFunction20150331v2",5,0,0,0,0,1,0,0,0,0,0,0,12
